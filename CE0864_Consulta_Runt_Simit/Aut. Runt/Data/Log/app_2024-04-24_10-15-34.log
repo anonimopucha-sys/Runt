@@ -1,0 +1,7 @@
+2024-04-24 10:15:34,460 - main - INFO - Se inicializó la automatización.....
+2024-04-24 10:15:34,460 - main - INFO - Obteniendo los vin
+2024-04-24 10:15:34,529 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-04-24 10:15:34,529 - main - INFO - Config del navegador de firefox
+2024-04-24 10:15:49,892 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:15:49,918 - main - INFO - Resolviendo el captcha
+2024-04-24 10:15:56,063 - main - ERROR - Error al cargar la imagen en el input

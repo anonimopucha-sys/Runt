@@ -1,0 +1,8 @@
+2024-09-19 14:53:42,383 - main - INFO - Se inicializó la automatización.....
+2024-09-19 14:53:42,384 - main - INFO - Obteniendo los vin
+2024-09-19 14:53:42,507 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-09-19 14:53:42,507 - main - INFO - Config del navegador de firefox
+2024-09-19 14:53:50,509 - selenium.webdriver.common.selenium_manager - WARNING - There was an error managing msedgedriver (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_128_WINDOWS)); using driver found in the cache
+2024-09-19 14:53:50,509 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-09-19 14:53:53,706 - main - ERROR - Ha ocurrido un error general, intenta mas tarde
+2024-09-19 14:53:57,882 - main - INFO - La automatización ha terminado

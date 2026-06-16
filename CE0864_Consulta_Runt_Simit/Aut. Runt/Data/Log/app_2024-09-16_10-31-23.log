@@ -1,0 +1,32 @@
+2024-09-16 10:31:23,979 - main - INFO - Se inicializó la automatización.....
+2024-09-16 10:31:23,980 - main - INFO - Obteniendo los vin
+2024-09-16 10:31:24,250 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-09-16 10:31:24,251 - main - INFO - Config del navegador de firefox
+2024-09-16 10:32:23,008 - main - INFO - Tomando caputure del captcha
+2024-09-16 10:32:23,301 - main - INFO - Resolviendo el captcha
+2024-09-16 10:32:43,484 - main - INFO - procesados 1: Texto del captcha extraído: 2b6n8
+2024-09-16 10:32:47,835 - main - ERROR - Error al resolver el captcha
+Traceback (most recent call last):
+  File "c:\RPA\CE0864_Consulta_Runt_Simit\Aut. Runt\functions\f_nevegar_runt.py", line 122, in resolver_captcha
+    aceptar.click()
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\webelement.py", line 94, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: Element <button class="btn btn-primary"> could not be scrolled into view
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+ElementNotInteractableError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:353:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:167:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:136:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:205:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:85:31
+
+2024-09-16 10:33:00,647 - main - INFO - Recargando para nueva consulta
+2024-09-16 10:33:08,370 - main - INFO - La automatización ha terminado

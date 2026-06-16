@@ -1,0 +1,10 @@
+2024-04-24 10:32:36,136 - main - INFO - Se inicializó la automatización.....
+2024-04-24 10:32:36,136 - main - INFO - Obteniendo los vin
+2024-04-24 10:32:36,209 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-04-24 10:32:36,209 - main - INFO - Config del navegador de firefox
+2024-04-24 10:32:52,377 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:32:52,417 - main - INFO - Resolviendo el captcha
+2024-04-24 10:33:11,815 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-24 10:33:11,815 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-24 10:33:23,962 - main - INFO - Recargando para nueva consulta
+2024-04-24 10:33:28,110 - main - INFO - La automatización ha terminado

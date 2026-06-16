@@ -1,0 +1,182 @@
+2024-04-24 10:04:26,198 - main - INFO - Se inicializó la automatización.....
+2024-04-24 10:04:26,199 - main - INFO - Obteniendo los vin
+2024-04-24 10:04:26,255 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-04-24 10:04:26,255 - main - INFO - Config del navegador de firefox
+2024-04-24 10:04:48,122 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:04:48,141 - main - INFO - Resolviendo el captcha
+2024-04-24 10:04:53,883 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:05:14,467 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:05:44,534 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:05:47,669 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:06:01,740 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:06:04,763 - main - INFO - Resolviendo el captcha
+2024-04-24 10:06:10,472 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:06:30,680 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:07:01,011 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:07:04,145 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:07:18,098 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:07:21,121 - main - INFO - Resolviendo el captcha
+2024-04-24 10:07:26,790 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:07:47,016 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:08:17,317 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:08:20,434 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:08:34,398 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:08:37,421 - main - INFO - Resolviendo el captcha
+2024-04-24 10:08:43,018 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:09:03,218 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:09:33,538 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:09:36,674 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:09:50,625 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:09:53,647 - main - INFO - Resolviendo el captcha
+2024-04-24 10:09:59,263 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:10:19,475 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:10:49,832 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:10:52,949 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:11:06,953 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:11:09,970 - main - INFO - Resolviendo el captcha
+2024-04-24 10:11:15,694 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:11:35,999 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:12:06,294 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:12:09,464 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:12:23,531 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:12:26,557 - main - INFO - Resolviendo el captcha
+2024-04-24 10:12:32,821 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:12:53,074 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:13:23,376 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:13:26,494 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:13:40,517 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:13:43,540 - main - INFO - Resolviendo el captcha
+2024-04-24 10:13:49,178 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:14:09,327 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:14:39,748 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:14:42,863 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:14:56,818 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:14:59,847 - main - INFO - Resolviendo el captcha
+2024-04-24 10:15:05,593 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:15:25,996 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:15:56,333 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:15:59,464 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:16:13,512 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:16:16,536 - main - INFO - Resolviendo el captcha
+2024-04-24 10:16:22,223 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:16:42,474 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:17:12,815 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:17:15,982 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:17:30,143 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:17:33,175 - main - INFO - Resolviendo el captcha
+2024-04-24 10:17:39,466 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:17:59,896 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:18:30,330 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:18:33,452 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:18:47,431 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:18:50,461 - main - INFO - Resolviendo el captcha
+2024-04-24 10:18:56,273 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:19:16,651 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:19:46,972 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:19:50,125 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:20:04,120 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:20:07,145 - main - INFO - Resolviendo el captcha
+2024-04-24 10:20:12,839 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:20:33,232 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:21:03,562 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:21:06,678 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:21:20,707 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:21:23,722 - main - INFO - Resolviendo el captcha
+2024-04-24 10:21:29,362 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:21:49,551 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:22:19,886 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:22:22,997 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:22:36,982 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:22:40,006 - main - INFO - Resolviendo el captcha
+2024-04-24 10:22:45,652 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:23:05,797 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:23:36,125 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:23:39,253 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:23:53,220 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:23:56,242 - main - INFO - Resolviendo el captcha
+2024-04-24 10:24:01,817 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:24:21,968 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:24:52,299 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:24:55,454 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:25:09,485 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:25:12,498 - main - INFO - Resolviendo el captcha
+2024-04-24 10:25:18,223 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:25:38,469 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:26:08,517 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:26:11,763 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:26:25,748 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:26:28,778 - main - INFO - Resolviendo el captcha
+2024-04-24 10:26:34,464 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:26:54,799 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:27:25,129 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:27:28,311 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:27:42,302 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:27:45,329 - main - INFO - Resolviendo el captcha
+2024-04-24 10:27:51,024 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:28:11,347 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:28:41,705 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:28:44,899 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:28:58,862 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:29:01,883 - main - INFO - Resolviendo el captcha
+2024-04-24 10:29:07,514 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:29:27,770 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:29:58,131 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:30:01,255 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:30:15,206 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:30:18,240 - main - INFO - Resolviendo el captcha
+2024-04-24 10:30:23,854 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:30:44,122 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:31:14,455 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:31:17,593 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:31:31,559 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:31:34,577 - main - INFO - Resolviendo el captcha
+2024-04-24 10:31:40,191 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:32:00,355 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:32:30,692 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:32:33,799 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:32:47,809 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:32:50,828 - main - INFO - Resolviendo el captcha
+2024-04-24 10:32:56,444 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:33:16,718 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:33:47,045 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:33:50,169 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:34:04,143 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:34:07,163 - main - INFO - Resolviendo el captcha
+2024-04-24 10:34:12,739 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:34:32,940 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:35:03,279 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:35:06,395 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:35:20,366 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:35:23,386 - main - INFO - Resolviendo el captcha
+2024-04-24 10:35:28,979 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:35:49,097 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:36:19,464 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:36:22,588 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:36:36,560 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:36:39,580 - main - INFO - Resolviendo el captcha
+2024-04-24 10:36:45,186 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:37:05,300 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:37:35,621 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:37:38,806 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:37:52,816 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:37:55,835 - main - INFO - Resolviendo el captcha
+2024-04-24 10:38:01,420 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:38:21,631 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:38:51,955 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:38:55,070 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:39:09,056 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:39:12,081 - main - INFO - Resolviendo el captcha
+2024-04-24 10:39:17,713 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:39:37,867 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:40:08,235 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:40:11,343 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:40:25,312 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:40:28,334 - main - INFO - Resolviendo el captcha
+2024-04-24 10:40:33,973 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:40:54,166 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:41:24,594 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:41:27,923 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:41:41,957 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:41:44,976 - main - INFO - Resolviendo el captcha
+2024-04-24 10:41:50,831 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:42:11,095 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web

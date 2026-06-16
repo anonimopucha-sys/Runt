@@ -1,0 +1,12 @@
+2024-09-16 08:23:01,929 - main - INFO - Se inicializó la automatización.....
+2024-09-16 08:23:01,929 - main - INFO - Obteniendo los vin
+2024-09-16 08:23:02,007 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-09-16 08:23:02,008 - main - INFO - Config del navegador de firefox
+2024-09-16 08:23:39,266 - main - INFO - Tomando caputure del captcha
+2024-09-16 08:23:39,297 - main - ERROR - Error al resolver el captcha
+Traceback (most recent call last):
+  File "c:\RPA\CE0864_Consulta_Runt_Simit\Aut. Runt\functions\f_nevegar_runt.py", line 95, in resolver_captcha
+    cont_procesados += 1
+    ^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'cont_procesados' where it is not associated with a value
+2024-09-16 08:23:58,491 - main - ERROR - Error al encontrar y/o oprimir el boton Poliza Soat

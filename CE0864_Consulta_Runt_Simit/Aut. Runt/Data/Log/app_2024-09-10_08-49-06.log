@@ -1,0 +1,8 @@
+2024-09-10 08:49:06,938 - main - INFO - Se inicializó la automatización.....
+2024-09-10 08:49:06,938 - main - INFO - Obteniendo los vin
+2024-09-10 08:49:06,992 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-09-10 08:49:06,992 - main - INFO - Config del navegador de firefox
+2024-09-10 08:49:35,476 - main - INFO - Tomando caputure del captcha
+2024-09-10 08:49:35,502 - main - INFO - Resolviendo el captcha
+2024-09-10 08:50:11,261 - main - ERROR - Error al copiar el resultado
+2024-09-10 08:50:15,402 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt

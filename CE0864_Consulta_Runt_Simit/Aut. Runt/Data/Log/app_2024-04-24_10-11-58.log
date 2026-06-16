@@ -1,0 +1,19 @@
+2024-04-24 10:11:58,505 - main - INFO - Se inicializó la automatización.....
+2024-04-24 10:11:58,506 - main - INFO - Obteniendo los vin
+2024-04-24 10:11:58,563 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-04-24 10:11:58,563 - main - INFO - Config del navegador de firefox
+2024-04-24 10:12:14,921 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:12:14,933 - main - INFO - Resolviendo el captcha
+2024-04-24 10:12:20,562 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:12:40,853 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:13:11,200 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:13:14,322 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:13:28,301 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:13:31,323 - main - INFO - Resolviendo el captcha
+2024-04-24 10:13:36,901 - main - ERROR - Error al cargar la imagen en el input
+2024-04-24 10:13:57,058 - main - ERROR - Error al oprimir click en bootn de extraer el texto en la web
+2024-04-24 10:14:27,366 - main - ERROR - Error al copiar el resultado
+2024-04-24 10:14:30,474 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-04-24 10:14:44,424 - main - INFO - Tomando caputure del captcha
+2024-04-24 10:14:47,442 - main - INFO - Resolviendo el captcha
+2024-04-24 10:14:53,190 - main - ERROR - Error al cargar la imagen en el input

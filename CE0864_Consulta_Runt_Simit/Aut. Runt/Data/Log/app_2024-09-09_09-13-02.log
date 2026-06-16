@@ -1,0 +1,15 @@
+2024-09-09 09:13:02,409 - main - INFO - Se inicializó la automatización.....
+2024-09-09 09:13:02,410 - main - INFO - Obteniendo los vin
+2024-09-09 09:13:02,520 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-09-09 09:13:02,521 - main - INFO - Config del navegador de firefox
+2024-09-09 09:13:40,548 - main - INFO - Tomando caputure del captcha
+2024-09-09 09:13:40,931 - main - INFO - Resolviendo el captcha
+2024-09-09 09:14:21,622 - main - ERROR - Error al copiar el resultado
+2024-09-09 09:14:25,513 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-09-09 09:14:40,318 - main - INFO - Tomando caputure del captcha
+2024-09-09 09:14:43,348 - main - INFO - Resolviendo el captcha
+2024-09-09 09:15:20,737 - main - ERROR - Error al copiar el resultado
+2024-09-09 09:15:31,369 - main - ERROR - Error al pegar el texto del captcha en el campo de entrada en la función navegar runt
+2024-09-09 09:15:42,153 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-09-09 09:15:42,153 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-09-09 09:16:02,184 - main - ERROR - Error al encontrar y/o oprimir el boton Poliza Soat

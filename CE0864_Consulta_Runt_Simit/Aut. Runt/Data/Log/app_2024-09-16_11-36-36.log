@@ -1,0 +1,56 @@
+2024-09-16 11:36:36,236 - main - INFO - Se inicializó la automatización.....
+2024-09-16 11:36:36,239 - main - INFO - Obteniendo los vin
+2024-09-16 11:36:36,333 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-09-16 11:36:36,333 - main - INFO - Config del navegador de firefox
+2024-09-16 11:37:00,014 - main - INFO - Tomando caputure del captcha
+2024-09-16 11:37:00,207 - main - INFO - Resolviendo el captcha
+2024-09-16 11:37:01,090 - main - INFO - procesados 1: Texto del captcha extraído: e63e7
+2024-09-16 11:37:16,365 - main - INFO - Tomando caputure del captcha
+2024-09-16 11:37:19,667 - main - INFO - Resolviendo el captcha
+2024-09-16 11:37:20,810 - main - INFO - procesados 2: Texto del captcha extraído: any2c
+2024-09-16 11:37:36,078 - main - INFO - Tomando caputure del captcha
+2024-09-16 11:37:39,214 - main - INFO - Resolviendo el captcha
+2024-09-16 11:37:40,672 - main - INFO - procesados 3: Texto del captcha extraído: apie
+2024-09-16 11:37:52,415 - main - ERROR - Error al resolver el captcha
+Traceback (most recent call last):
+  File "c:\RPA\CE0864_Consulta_Runt_Simit\Aut. Runt\functions\f_nevegar_runt.py", line 135, in resolver_captcha
+    aceptar.click()
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\webelement.py", line 94, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\BRUEDAPR\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: MicrosoftEdge=128.0.2739.79)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6892E3A12+10594]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF689280439+323353]
+	(No symbol) [0x00007FF68909EFD5]
+	(No symbol) [0x00007FF6890E782D]
+	(No symbol) [0x00007FF6890DC613]
+	(No symbol) [0x00007FF689107B7A]
+	(No symbol) [0x00007FF6890DBEDD]
+	(No symbol) [0x00007FF6890DBDAD]
+	(No symbol) [0x00007FF689107E60]
+	(No symbol) [0x00007FF6890DBEDD]
+	(No symbol) [0x00007FF689121B07]
+	(No symbol) [0x00007FF6891077E3]
+	(No symbol) [0x00007FF6890DB3EC]
+	(No symbol) [0x00007FF6890DA8CD]
+	(No symbol) [0x00007FF6890DAFB1]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF68946E4B4+918756]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF68920C9BF+54575]
+	Microsoft::Applications::Events::EventProperty::~EventProperty [0x00007FF6891FF557+199]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF68946D23D+914029]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF689287EC1+354721]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF689284374+339540]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF6892844A9+339849]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF68927AD6C+301132]
+	BaseThreadInitThunk [0x00007FF93F547344+20]
+	RtlUserThreadStart [0x00007FF9407226B1+33]
+
+2024-09-16 11:38:13,094 - main - ERROR - Error al encontrar y/o oprimir el boton Poliza Soat

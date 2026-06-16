@@ -1,0 +1,5 @@
+Tenga en cuenta que antes de ejecutar el siguiente
+comando debe instalar python en su equipo, luego,
+ejecute el siguiente comando: 
+
+pip install -r requirements.txt

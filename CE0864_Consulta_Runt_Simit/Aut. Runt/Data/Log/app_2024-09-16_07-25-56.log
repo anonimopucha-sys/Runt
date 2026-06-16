@@ -1,0 +1,7 @@
+2024-09-16 07:25:56,462 - main - INFO - Se inicializó la automatización.....
+2024-09-16 07:25:56,462 - main - INFO - Obteniendo los vin
+2024-09-16 07:25:56,606 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-09-16 07:25:56,607 - main - INFO - Config del navegador de firefox
+2024-09-16 07:26:05,805 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-09-16 07:26:56,107 - main - ERROR - Ha ocurrido un error general, intenta mas tarde
+2024-09-16 07:26:56,107 - main - INFO - La automatización ha terminado

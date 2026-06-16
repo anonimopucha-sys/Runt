@@ -1,0 +1,80 @@
+2024-04-22 17:13:26,186 - main - INFO - Se inicializó la automatización.....
+2024-04-22 17:13:26,186 - main - INFO - Obteniendo los vin
+2024-04-22 17:13:26,326 - main - INFO - Procesando el VIM numero: 9BWAB45U0DT073462
+2024-04-22 17:13:26,326 - main - INFO - Config del navegador de firefox
+2024-04-22 17:13:42,040 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:13:42,056 - main - INFO - Resolviendo el captcha
+2024-04-22 17:14:04,011 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:14:04,011 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:14:16,145 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:14:20,154 - main - INFO - Procesando el VIM numero: 9GASA52M8FB049778
+2024-04-22 17:14:20,154 - main - INFO - Config del navegador de firefox
+2024-04-22 17:14:35,018 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:14:35,035 - main - INFO - Resolviendo el captcha
+2024-04-22 17:14:53,507 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:14:53,507 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:15:09,615 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:15:13,500 - main - INFO - Procesando el VIM numero: 9FB5SRC9GKM771213
+2024-04-22 17:15:13,500 - main - INFO - Config del navegador de firefox
+2024-04-22 17:15:28,009 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:15:28,022 - main - INFO - Resolviendo el captcha
+2024-04-22 17:15:47,555 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:15:47,555 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:16:02,373 - main - ERROR - Error al copiar la vigencia del RTM en el runt
+2024-04-22 17:16:12,565 - main - ERROR - Error al encontrar y copiar la fecha de vigencia del rtm en el runt
+2024-04-22 17:16:22,805 - main - ERROR - Error al copiar la fecha de expedicion del rtm en el runt
+2024-04-22 17:16:23,869 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:16:27,719 - main - INFO - Procesando el VIM numero: KNAHU812BE7047308
+2024-04-22 17:16:27,719 - main - INFO - Config del navegador de firefox
+2024-04-22 17:16:44,013 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:16:44,027 - main - INFO - Resolviendo el captcha
+2024-04-22 17:17:03,966 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:17:03,966 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:17:24,112 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:17:28,020 - main - INFO - Procesando el VIM numero: KNAPB811AC7203388
+2024-04-22 17:17:28,020 - main - INFO - Config del navegador de firefox
+2024-04-22 17:17:42,837 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:17:42,863 - main - INFO - Resolviendo el captcha
+2024-04-22 17:18:13,570 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:18:16,593 - main - INFO - Resolviendo el captcha
+2024-04-22 17:18:34,975 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:18:34,975 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:18:51,110 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:18:54,971 - main - INFO - Procesando el VIM numero: 9350WNFPVLB515459
+2024-04-22 17:18:54,971 - main - INFO - Config del navegador de firefox
+2024-04-22 17:19:09,705 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:19:09,719 - main - INFO - Resolviendo el captcha
+2024-04-22 17:19:31,393 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:19:31,393 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:19:47,534 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:19:51,566 - main - INFO - Procesando el VIM numero: KMHJT81BABU109331
+2024-04-22 17:19:51,566 - main - INFO - Config del navegador de firefox
+2024-04-22 17:20:06,158 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:20:06,177 - main - INFO - Resolviendo el captcha
+2024-04-22 17:20:24,247 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:20:24,247 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:20:40,672 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:20:45,379 - main - INFO - Procesando el VIM numero: 9FBHSRAJBDM008418
+2024-04-22 17:20:45,379 - main - INFO - Config del navegador de firefox
+2024-04-22 17:21:00,919 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:21:00,934 - main - INFO - Resolviendo el captcha
+2024-04-22 17:21:30,750 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:21:30,750 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:21:46,813 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:21:50,770 - main - INFO - Procesando el VIM numero: 9BFZE65F1C8756196
+2024-04-22 17:21:50,770 - main - INFO - Config del navegador de firefox
+2024-04-22 17:22:05,260 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:22:05,278 - main - INFO - Resolviendo el captcha
+2024-04-22 17:22:26,344 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:22:26,344 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:22:42,411 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:22:46,423 - main - INFO - Procesando el VIM numero: 3N8CP5HD1ZL455859
+2024-04-22 17:22:46,423 - main - INFO - Config del navegador de firefox
+2024-04-22 17:23:00,834 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:23:00,848 - main - INFO - Resolviendo el captcha
+2024-04-22 17:23:38,272 - main - INFO - Tomando caputure del captcha
+2024-04-22 17:23:41,296 - main - INFO - Resolviendo el captcha
+2024-04-22 17:23:59,658 - main - INFO - Formulario diligenciado correctamente, continua..
+2024-04-22 17:23:59,658 - main - INFO - Extrayendo la informacion y agregando al excel
+2024-04-22 17:24:15,731 - main - INFO - Recargando para nueva consulta
+2024-04-22 17:24:19,653 - main - INFO - La automatización ha terminado
